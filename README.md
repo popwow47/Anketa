@@ -1,1 +1,1 @@
-Simple questionnaire , just fill all fields and push the button 
+simple form, just fill out all the fields and click the button
