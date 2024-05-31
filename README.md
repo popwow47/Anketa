@@ -17,4 +17,6 @@ git clone https://github.com/yourusername/yourrepository.git
 ## Usage
 1. Fill in all input fields according to the questions in them
 2. Click on the button at the very bottom of the application
+ ![Image alt](https://github.com/popwow47/Anketa/blob/main/screenshots/Screenshot_1.png)
 3. Afterwards, an xls file will be generated with your answers to the questions, located in the same place as the executable file of the program
+![Image alt](https://github.com/popwow47/Anketa/blob/main/screenshots/Screenshot_2.png)
